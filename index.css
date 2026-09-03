@@ -76,9 +76,9 @@ button{
 }
 
 #proj-list > li:hover{
-    border: 1px solid #DDDDDD;
-    box-shadow: 0 0 10px #CCCCCC;
-    transition: border,box-shadow .2s;
+    border: 1px solid #dddddd75;
+    box-shadow: 0 0 10px #cccccc74;
+    transition: border,box-shadow .15s;
 }
 
 .proj-btn{
@@ -97,13 +97,13 @@ button{
     text-align: right;
 }
 .planned{
-    background-color: rgb(100, 100, 255);
+    background-color: rgb(25, 25, 255);
 }
 .completed{
-    background-color: rgb(100, 255, 100);
+    background-color: rgb(25, 255, 25);
 }
 .ongoing{
-    background-color: rgb(255, 100, 100);
+    background-color: rgb(255, 25, 25);
 }
 .ret-btn{
     padding: 0;
